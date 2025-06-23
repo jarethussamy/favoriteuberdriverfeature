@@ -195,12 +195,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for the utility-first approach
 - Lucide for beautiful icons
 
-## 📞 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-
----
-
 **⭐ If you found this project helpful, please give it a star!**
